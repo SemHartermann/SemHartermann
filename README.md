@@ -1,7 +1,7 @@
 # Sem-Zhivotov
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Summary:
 
 I am a qualified java web developer with practical experience of
 developing web projects from zero <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Strong creative and analytical skills.
@@ -19,7 +19,7 @@ Team player with an eye for detail.
 
 - 🧑‍🎓: I am a 3rd year student of the AI ​​specialty at KNURE.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sem_zhivotov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:semzhivotov@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-semzhivotov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sem_zhivotov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:semzhivotov@gmail.com)
 
 ---
 
@@ -30,7 +30,7 @@ Team player with an eye for detail.
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://www.instagram.com/sem_hartermann/?hl=ru" target="_blank">
-      <img src="[https://cdn-icons-png.flaticon.com/512/145/145813.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1KJB0_xxv13E4tGHK9_xXkJRxOrW1tiZoA&usqp=CAU)" width="40" height="40" alt="Instagram"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="Instagram"/>
     </a>
     <a href="https://t.me/sem_zhivotov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
