@@ -17,7 +17,7 @@ Team player with an eye for detail.
 
 - 🍀: Completed InventorSoft Java Course with practical experience.
 
-- 🧑‍🎓: I am a 3rd year student of the AI ​​specialty at KNURE.
+- 👨‍🎓: I am a 3rd year student of the AI ​​specialty at KNURE.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-semzhivotov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sem_zhivotov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:semzhivotov@gmail.com)
 
@@ -30,7 +30,7 @@ Team player with an eye for detail.
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://www.instagram.com/sem_hartermann/?hl=ru" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="Instagram"/>
+      <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="Instagram"/>
     </a>
     <a href="https://t.me/sem_zhivotov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
