@@ -55,7 +55,7 @@ Team player with an eye for detail.
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
-  <svg xmlns="http://www.w3.org/2000/svg"viewBox="0 0 128 128" enable-background="new 0 0 1000 1000" xml:space="preserve"><path d="M211.611,0.012H596.27l192.43,333.1H403.838L211.43,666.714L19.183,333.111L211.506,0 M788.5,1000l192.317-333.111 L788.57,333.272L596.171,666.889H211.302l192.432,333.088h384.655"/></svg>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hibernate.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
 </div>
 
 ---
