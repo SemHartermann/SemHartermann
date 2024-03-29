@@ -51,8 +51,8 @@ Team player with an eye for detail.
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hibernate.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/h2database/h2database-icon.svg" title="h2" alt="h2" width="40" height="40"/>&nbsp;
 </div>
 
