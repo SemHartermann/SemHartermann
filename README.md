@@ -53,7 +53,7 @@ Team player with an eye for detail.
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/140953/31320492-b043e386-ac75-11e7-9550-7ab21cd49274.png" title="h2" alt="h2" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/aadrian/media/blob/master/h2/h2_v2_3_1.svg" title="h2" alt="h2"/>&nbsp;
 </div>
 
 ---
