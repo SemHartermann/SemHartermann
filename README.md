@@ -71,10 +71,14 @@ Team player with an eye for detail.
   <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" title="rider" alt="rider" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAJH4R87uV3Rvncs3L3urjeNESAfJGTMTrA&s" title="docker-desktop" alt="docker-desktop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://www.cdnlogo.com/logos/m/32/miro.svg" title="miro" alt="miro" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYp0n2NpMJzQF9fmqwX5HvfB8myDb_HdPZeg&s" title="teams" alt="teams" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CqmIbWlf0UxGroEMna38ZnqYv5K7GlqmGQ&s" title="chat-gpt4" alt="chat-gpt4" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
