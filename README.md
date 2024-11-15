@@ -1,5 +1,6 @@
-# Sem Zhivotov
----
+<div>
+  <h1>Sem Zhivotov</h1>
+</div>
 
 ### :man_technologist: Summary:
 
@@ -7,13 +8,15 @@ I am a qualified java web developer with practical experience of
 developing web projects from zero <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Strong creative and analytical skills.
 Team player with an eye for detail.
 
-- 🍃: Completed Epam Academy Courses.
+- 🍃: Completed Epam Academy Courses
 
-- 🥬: Completed several Java courses on Udemy.
+- 🥬: Completed several Java courses on Udemy
 
-- 🍀: Completed InventorSoft Java Course with practical experience.
+- 🍀: Completed InventorSoft Java Course with practical experience
 
-- 👨‍🎓: I am a 3rd year student of the AI ​​specialty at KNURE.
+- 👨‍🎓: I am a 4rd year student of the AI ​​specialty at KNURE
+
+- 💼: I have experiance in commercial ETL Java app development
   
 ---
 
@@ -39,7 +42,7 @@ Team player with an eye for detail.
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -64,7 +67,7 @@ Team player with an eye for detail.
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
@@ -83,36 +86,19 @@ Team player with an eye for detail.
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 🤖 Codewars:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+<div align="left">
+  <img src="https://www.codewars.com/users/SemnHartermann/badges/large" height="50" alt="codewars"/>
+</div>
 
---- -->
+---
 
-### 💻 Codewars:
+### ⚙️ GitHub statistics:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=semhartermann&theme=gruvbox&show_icons=true&hide=issues&include_all_commits=true&order=1" height="200" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semhartermann&theme=gruvbox&layout=compact&langs_count=4&card_width=320&order=2" height="200" alt="languages graph"  />
+</div>
 
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SemHartermann)
