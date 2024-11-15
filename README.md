@@ -97,8 +97,8 @@ Team player with an eye for detail.
 ### ⚙️ GitHub statistics:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=semhartermann&theme=gruvbox&show_icons=true&hide=issues&include_all_commits=true&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semhartermann&theme=gruvbox&layout=compact&langs_count=4&card_width=320&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=semhartermann&theme=gruvbox&show_icons=true&hide=issues&include_all_commits=true&hide_border=true&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semhartermann&theme=gruvbox&layout=compact&langs_count=4&card_width=320&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SemHartermann)
